@@ -1,0 +1,11 @@
+**Lisa Guthrie**
+
+Redmond, WA 98052 \| (650) 814-6831 \| lisa.cozzens@alumni.brown.edu \|
+linkedin.com/in/lisa-guth/
+
+**PROGRAM MANAGER**
+
+Data-driven product leader combining 15+ years of technical program
+management with elected education governance experience. Expert in
+translating user insights into scalable solutions, with a deep
+commitment to leveraging technology for social impact.
