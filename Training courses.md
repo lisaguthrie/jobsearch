@@ -1,4 +1,5 @@
 Coursera:
+* Machine Learning Foundations: A Case Study Approach (University of Washington) (in progress)
 * Programming for Everybody specialization (University of Michigan)
     * Getting Started with Python
     * Python Data Structures
@@ -27,4 +28,12 @@ Coursera:
     * Generative AI: Foundation Models and Platforms
     * Product Management: Building AI-Powered Products
     * Generative AI: Supercharge Your Product Management Career
-* 
+
+Data Camp:
+ * Working with Hugging Face
+ * Data Storytelling Case Study: College Majors
+ * Prompt Engineering with the OpenAI API
+ * AI Ethics
+ * Working with the OpenAI API
+ * Introduction to AI Agents
+ * Certification: AI Fundamentals
