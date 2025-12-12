@@ -1,5 +1,4 @@
-**LEADERSHIP & MANAGEMENT SKILLS**
-
+## LEADERSHIP & MANAGEMENT SKILLS
 * Cross-Functional Collaboration
 * Strategic Planning
 * Data-Driven Decision Making
@@ -10,9 +9,8 @@
 * Coaching/Mentorship
 * Board Governance
 
-**TECHNICAL SKILLS & PLATFORMS**
-
-Technical Program Management
+## TECHNICAL SKILLS & PLATFORMS
+* Technical Program Management
 * Azure/Cloud
 * Telemetry Analysis
 * Power BI 
