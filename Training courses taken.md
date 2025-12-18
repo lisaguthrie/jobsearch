@@ -1,4 +1,6 @@
-Coursera:
+I've listed all coursework I've completed, for your awareness and context. Be selective about what coursework you choose to surface in a given context. There is absolutely no need to include everything!
+
+## Coursera
 * Machine Learning Foundations: A Case Study Approach (University of Washington) (in progress)
 * Programming for Everybody specialization (University of Michigan)
     * Getting Started with Python
@@ -6,7 +8,7 @@ Coursera:
     * Using Python to Access Web Data
     * Using Databases with Python
     * Retrieving, Processing, and Visualizing Data with Python
-* IBM Generative AI for Educators:
+* IBM Generative AI for Educators specialization
     * Generative AI: Introduction and Applications
     * Generative AI: Prompt Engineering Basics
     * Generative AI: Empowering Modern Education
@@ -29,7 +31,7 @@ Coursera:
     * Product Management: Building AI-Powered Products
     * Generative AI: Supercharge Your Product Management Career
 
-Data Camp:
+## Data Camp
  * Working with Hugging Face
  * Data Storytelling Case Study: College Majors
  * Prompt Engineering with the OpenAI API
