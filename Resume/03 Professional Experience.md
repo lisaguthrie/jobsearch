@@ -2,13 +2,15 @@
 
 **MICROSOFT**
 
-**Principal Technical Program Manager** -- Redmond, WA (October 2020 -
-May 2025)
+**Principal Technical Program Manager** -- Redmond, WA (October 2020 - May 2025)
 
-Member of the Chief of Staff office for Developer Division, a \$10B+ software engineering organization with 2000+ employees, focused on delivering world-class developer tools and services. Supported the DevDiv president and senior leadership team in driving strategic initiatives throughout the organization.
-* Redesigned business review process, reducing effort to collate review presentation by 70% while securing consistently positive feedback from executive leadership on the content.
+Embedded with DevDiv executive leadership as internal product builder and problem solver. Identified operational bottlenecks across a 2000-person engineering organization, diagnosed root causes, and shipped solutions -- from prototyping tools to facilitating cross-functional teams to hands-on technical work. Focused on enabling velocity with existing resources rather than requesting budget or headcount.
+
+* Inherited quarterly exec review that consumed 30+ hours chasing PMs for product updates. Redesigned document structure to pull directly from existing OKR tracking tool (Viva Goals), supplemented with marketing materials and AI-assisted content synthesis. Shipped restructured approach in single review cycle without additional budget or formal approval. Cut collation time 70% while maintaining positive exec feedback.
+* Took over quarterly EVP review process, noticed we were optimizing for "the EVP expects this format" rather than efficiency. Experimented with small format changes, saw no pushback, shipped bigger redesign aligned to existing OKRs. Worst case was "EVP hates it and I look bad," not mission-critical failure. Validated through division-level reviews. Result: Cut collation time 70% while maintaining positive exec feedback.
 * Streamlined org-wide communications in collaboration with a cross-functional v-team, providing technical assistance and automation that reduced email volume and operational churn.
 * Drove development and automation of the DevDiv Careers page, creating a scalable recruitment channel that generated hundreds of monthly impressions.
+* Developed, deployed, and automated the DevDiv Careers page, creating a scalable recruitment channel that generated hundreds of monthly impressions.
 * Launched an org-wide technical training series, reaching hundreds of attendees with strategically aligned topics including AI and cybersecurity.
 * Recognized critical organizational knowledge gaps in generative AI and cybersecurity at a pivotal moment for the division, developed deep expertise in both areas, then designed and launched an org-wide training series on these topics reaching hundreds of attendees.
 * Led DevDivDataClub initiative providing hands-on data analysis training to 15 employees, resulting in increased skills as well as measurable business impact, including multiple bug fixes and strategic product shifts.

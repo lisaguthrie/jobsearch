@@ -3,20 +3,24 @@
 * Strategic Planning
 * Data-Driven Decision Making
 * Stakeholder Management
-* Requirements Gathering 
-* KPI Development 
-* Adaptive Leadership 
+* Requirements Gathering
+* KPI Development
+* Adaptive Leadership
 * Coaching/Mentorship
 * Board Governance
+* K-12 Education
+* Equity-Focused Leadership
+* Impact Measurement
 
 ## TECHNICAL SKILLS & PLATFORMS
 * Technical Program Management
 * Azure/Cloud
 * Telemetry Analysis
-* Power BI 
+* Power BI
 * SQL
 * Power Automate
-* User Research 
+* User Research
+* User Interviewing
 * A/B Testing
 * C#
 * Python
