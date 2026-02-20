@@ -1,6 +1,7 @@
-## INDEPENDENT AI/EDUCATION PROJECTS (2025–present)
+## AI TOOLING DEVELOPMENT
 
-Developing open-source tools at the intersection of AI and K-12 governance, driven by direct experience as a school board director.
+**Independent AI Developer** — Redmond, WA *(January 2026 – Present)*
+Developing open-source tools at the intersection of AI and K-12 governance, driven by direct experience as a school board director. Code available at github.com/lisaguthrie.
 
-- Built a **WA State Education Data MCP Server** (Python/MCP protocol) providing AI-friendly access to Washington State standardized assessment data across districts, student groups, grades, and years -- designed for multi-district use and compatible with Claude Desktop and other MCP clients | *github.com/lisaguthrie/wa-ed-mcp*
-- Developed a **School Improvement Plan Dashboard** (Python/React/Claude API) that transforms hundreds of pages of unstructured district PDF documents into structured, searchable data with AI-powered Q&A -- enabling board directors to shift SIP review from a compliance exercise to meaningful oversight; implemented prompt caching for ~90% cost reduction on repeat runs | *github.com/lisaguthrie/sipdashboard*
+- **WA State Education Data MCP Server**: Provides LLM-friendly access to Washington State standardized assessment data for multi-district analysis. Built with Python/MCP protocol; compatible with Claude Desktop and other MCP clients.
+- **School Improvement Plan Dashboard**: Transforms hundrends of pages of unstructured district PDFs into structured, searchable data with AI-powered Q&A, enabling board directors to shift SIP review from compliance exercise to meaningful oversight. Built with Python/React/Claude API; implemented prompt caching for ~90% cost reduction on repeat runs.
