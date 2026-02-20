@@ -4,7 +4,7 @@
 
 **Principal Technical Program Manager** -- Redmond, WA (October 2020 - May 2025)
 
-Embedded with DevDiv executive leadership as internal product builder and problem solver. Identified operational bottlenecks across a 2000-person engineering organization, diagnosed root causes, and shipped solutions -- from prototyping tools to facilitating cross-functional teams to hands-on technical work. Focused on enabling velocity with existing resources rather than requesting budget or headcount.
+Embedded with executive leadership for Microsoft's Developer Division (DevDiv) as internal product builder and problem solver. Identified operational bottlenecks across a 2000-person engineering organization, diagnosed root causes, and shipped solutions -- from prototyping tools to facilitating cross-functional teams to hands-on technical work. Focused on enabling velocity with existing resources rather than requesting budget or headcount.
 
 * Inherited quarterly exec review that consumed 30+ hours chasing PMs for product updates. Redesigned document structure to pull directly from existing OKR tracking tool (Viva Goals), supplemented with marketing materials and AI-assisted content synthesis. Shipped restructured approach in single review cycle without additional budget or formal approval. Cut collation time 70% while maintaining positive exec feedback.
 * Took over quarterly EVP review process, noticed we were optimizing for "the EVP expects this format" rather than efficiency. Experimented with small format changes, saw no pushback, shipped bigger redesign aligned to existing OKRs. Worst case was "EVP hates it and I look bad," not mission-critical failure. Validated through division-level reviews. Result: Cut collation time 70% while maintaining positive exec feedback.
@@ -18,7 +18,7 @@ Embedded with DevDiv executive leadership as internal product builder and proble
 * Drove compliance and security transformation for internal Chief of Staff tools in response to Microsoft's Secure Future Initiative, ensuring multiple systems met enterprise data governance and security standards.
 
 **Principal Program Manager** -- Redmond, WA (August 2017 - October 2020)
-Program Manager on the Azure Developer Experience team, part of Microsoft's Developer Division. Collaborated with engineering, user research, and design teams to drive usage and growth of multiple cloud-focused developer tools and services at all stages of the product life cycle.
+Program manager on the Azure Developer Experience team, part of Developer Division. Collaborated with engineering, user research, and design teams to drive usage and growth of multiple cloud-focused developer tools and services at all stages of the product life cycle.
 
 * Led agile product development, utilizing both qualitative and quantitative customer data (including user interviews and telemetry data) to identify customer needs and pain points for Azure App Configuration, then turning those pain points into user stories. Increased overall usage by over 150% and increased paid usage from 0% to 65% within 6 months of GA.
 * Developed a data-driven customer acquisition funnel for Azure Dev Spaces, driving growth from handful of private preview users to 1000+ active subscriptions in under 12 months.

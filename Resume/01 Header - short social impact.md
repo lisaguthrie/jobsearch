@@ -1,7 +1,6 @@
 # Lisa Guthrie
 
-Redmond, WA 98052 | (650) 814-6831 | lisa.cozzens@alumni.brown.edu |
-linkedin.com/in/lisa-guth/
+Redmond, WA | (650) 814-6831 | lisa.cozzens@alumni.brown.edu | linkedin.com/in/lisa-guth/ | github.com/lisaguthrie
 
 ## PROGRAM MANAGER
 
