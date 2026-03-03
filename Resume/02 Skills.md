@@ -11,6 +11,7 @@
 * K-12 Education
 * Equity-Focused Leadership
 * Impact Measurement
+* Product Roadmapping
 
 ## TECHNICAL SKILLS & PLATFORMS
 * Technical Program Management
@@ -29,3 +30,5 @@
 * Git
 * Generative AI
 * Agile/Scrum
+* Model Context Protocol (MCP)
+* Project Tracking (ADO, Jira)
