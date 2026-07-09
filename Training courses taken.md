@@ -19,19 +19,25 @@ I've listed all coursework I've completed, for your awareness and context. Be se
     1. AI Fundamentals with Claude
     2. AI Collaboration with Claude
     3. AI Automation with Claude
-* IBM AI Product Manager specialization (in progress) consisting of the following courses:
-    1. Product Management: An Introduction (completed)
-    2. Product Management: Foundations & Stakeholder Collaboration (completed)
-    3. Product Management: Initial Product Strategy and Plan (completed)
-    4. Product Management: Developing and Delivering a New Product (in progress)
+* IBM AI Product Manager specialization consisting of the following courses:
+    1. Product Management: An Introduction
+    2. Product Management: Foundations & Stakeholder Collaboration
+    3. Product Management: Initial Product Strategy and Plan
+    4. Product Management: Developing and Delivering a New Product
     5. Introduction to Artificial Intelligence (AI)
-    6. Generative AI: Introduction and Applications (completed)
-    7. Generative AI: Prompt Engineering Basics (completed)
+    6. Generative AI: Introduction and Applications
+    7. Generative AI: Prompt Engineering Basics
     8. Generative AI: Foundation Models and Platforms
     9. Product Management: Building AI-Powered Products
     10. Generative AI: Supercharge Your Product Management Career
 * Scikit-Learn to Solve Regression Machine Learning Problems (completed December 2026)
 * Building with the Claude API (Anthropic) (completed February 2026)
+* Introduction to Model Context Protocol (completed May 2026)
+* Claude Code In Action (completed June 2026)
+* AI Product Management specialization (Duke University) (in progress) consisting of the following courses:
+    1. Machine Learning Foundations for Product Managers (completed June 2026)
+    2. Managing Machine Learning Projects (in progress)
+    3. Human Factors in AI
 
 ## Data Camp
  * Working with Hugging Face
@@ -62,19 +68,19 @@ Each session starts midday on a Thursday and concludes midday on Friday:
 
 **Leadership to Learn, Leadership to Educate**
 February 12-13 (COMPLETED)
-At the WSSDA office and Capitol Campus in Olympia
+At the WSSDA office and Capitol Campus in Olympia - met with state representative April Berg and lieutenant governor Denny Heck
 
 **Leadership for Growth**
-March 19-20
-At the Lacey Hampton Inn & Suites and OSPI in Olympia
+March 19-20 (COMPLETED)
+At the WSSDA office and OSPI in Olympia - met with state superintendent Chris Reykdal
 
 **Leadership for All**
-May 7-9
-Location TBD
+May 7-9 (COMPLETED)
+Yakima School District
 
 **Leadership for Change**
 September 24-25
-Location TBD
+Northshore School District
 
 **Leadership for Life & Graduation from the Program**
 November 18

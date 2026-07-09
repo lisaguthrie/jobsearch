@@ -27,6 +27,8 @@ Program manager on the Azure Developer Experience team, part of Developer Divisi
 **Principal Software Development Lead** -- Redmond, WA (July 2013 - August 2017)
 Rose through positions of increasing technical and leadership scope within the Advanced Services Delivery organization. Led cross-functional teams of software developers, UX designers, user researchers, and content writers to influence the development of a wide portfolio of proactive services offered to Microsoft's large enterprise customers.
 
+Led cross-functional teams of software developers, UX designers, user researchers, and content writers to develop proactive services for Microsoft’s large enterprise customers.
+
 * Scrum master for a team that developed localization capabilities for ASD's Risk Assessment Programs, leading Scrum rituals including sprint planning, backlog grooming, sprint reviews, and daily standups. Over 10% of users opted for a localized experience, significantly reducing delivery costs associated with manual translation.
 * Product owner for a team that focused on reducing support costs by increasing resolution rates for customer issues identified through the Risk Assessment Programs. Wrote user stories and acceptance criteria, prioritized backlog items, and collaborated with stakeholders to define feature requirements. The team's work doubled the resolution rate for "crisis issues."
 * Product owner for a team that partnered with the Operations Management Suite (OMS) product group, leveraging existing ASD content to build new solutions on OMS for greater scale and customer reach. Grew these solutions to nearly 10,000 active customers.
