@@ -1,0 +1,22 @@
+#!/bin/sh
+# Regenerates FullResume.md and FullResumeEducation.md whenever a commit
+# touches files under Resume/. These outputs are gitignored build products,
+# so this just keeps the local copies in sync after each commit.
+
+repo_root=$(git rev-parse --show-toplevel)
+changed=$(git diff-tree --no-commit-id --name-only -r HEAD -- Resume/)
+
+if [ -z "$changed" ]; then
+    exit 0
+fi
+
+script="$repo_root/Resume/Build-FullResume.ps1"
+
+if command -v pwsh >/dev/null 2>&1; then
+    ps=pwsh
+else
+    ps=powershell
+fi
+
+"$ps" -NoProfile -ExecutionPolicy Bypass -File "$script"
+"$ps" -NoProfile -ExecutionPolicy Bypass -File "$script" -Education

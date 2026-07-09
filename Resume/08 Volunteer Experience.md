@@ -1,8 +1,5 @@
 ## VOLUNTEER EXPERIENCE
 
-**US Digital Response** (2026 - present)
-Leading a 12-week pro-bono engagement with a mid-sized U.S. city to conduct AI use case discovery across city departments and deliver pilot-ready implementation recommendations. Partnering with a cross-functional USDR team of researchers and engineers to help city leadership move from ad hoc AI experimentation to strategic, measurable pilots.
-
 **Lake Washington School District Board of Directors** (2023 - present)
 One of five elected members of the Board of Directors for the second largest school district in Washington state, representing 120,000+ registered voters, 30,000+ K-12 students, and 4,500+ district employees.
 

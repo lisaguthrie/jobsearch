@@ -1,5 +1,16 @@
 ## PROFESSIONAL EXPERIENCE
 
+[choose one title per resume]
+**Lead Consultant, US Digital Response** (May 2026 - present)
+**Program Manager, US Digital Response** (May 2026 - present)
+
+Leading a cross-functional technical team on a 12-week pro-bono engagement with a mid-sized U.S. city, conducting AI use case discovery across city departments to identify high-impact, pilot-ready opportunities.
+
+* Directed stakeholder interviews and use case discovery process, synthesizing findings into a structured report identifying 12 candidate AI use cases across city departments.
+* Designed and led a collaborative evaluation workshop with city stakeholders, narrowing 12 candidate use cases to 3 priority pilots based on feasibility and impact criteria.
+* Identified team stalls in translating strategy into execution and unblocked progress by personally drafting initial work product to catalyze team engagement.
+* Leading follow-on technical scoping to translate prioritized use cases into detailed implementation plans ahead of the engagement's July 31 conclusion.
+
 **Principal Technical Program Manager, Microsoft** -- Redmond, WA (October 2020 - July 2025)
 
 Embedded with executive leadership for Microsoft's Developer Division (DevDiv) as internal product builder and problem solver. Identified operational bottlenecks across a 2000-person engineering organization, diagnosed root causes, and shipped solutions -- from prototyping tools to facilitating cross-functional teams to hands-on technical work. Focused on enabling velocity with existing resources rather than requesting budget or headcount.
@@ -16,6 +27,7 @@ Embedded with executive leadership for Microsoft's Developer Division (DevDiv) a
 * Drove compliance and security transformation for internal Chief of Staff tools in response to Microsoft's Secure Future Initiative, ensuring multiple systems met enterprise data governance and security standards.
 
 **Principal Program Manager, Microsoft** -- Redmond, WA (August 2017 - October 2020)
+
 Program manager on the Azure Developer Experience team, part of Developer Division. Collaborated with engineering, user research, and design teams to drive usage and growth of multiple cloud-focused developer tools and services at all stages of the product life cycle.
 
 * Led agile product development, utilizing both qualitative and quantitative customer data (including user interviews and telemetry data) to identify customer needs and pain points for Azure App Configuration, then turning those pain points into user stories. Increased overall usage by over 150% and increased paid usage from 0% to 65% within 6 months of GA.
@@ -25,6 +37,7 @@ Program manager on the Azure Developer Experience team, part of Developer Divisi
 * Delivered technical presentations at multiple conferences, including Microsoft Build, Ignite, and MVP Summit.
 
 **Principal Software Development Lead** -- Redmond, WA (July 2013 - August 2017)
+
 Rose through positions of increasing technical and leadership scope within the Advanced Services Delivery organization. Led cross-functional teams of software developers, UX designers, user researchers, and content writers to influence the development of a wide portfolio of proactive services offered to Microsoft's large enterprise customers.
 
 Led cross-functional teams of software developers, UX designers, user researchers, and content writers to develop proactive services for Microsoft’s large enterprise customers.
@@ -35,7 +48,9 @@ Led cross-functional teams of software developers, UX designers, user researcher
 * Served as HR manager for a team of seven software developers, handling performance management and career development.
 
 **Senior Program Manager** -- Irving, TX (May 2008 - June 2013)
+
 Led the development of SharePoint-focused proactive services offered to Microsoft Premier (large enterprise) customers.
+
 * Program manager for the Risk and Health Assessment Program for Microsoft SharePoint Server (MOSSRAP), RAP-as-a-Service for Microsoft SharePoint Server (SP RaaS), and the internal platform and tools responsible for the development and delivery of these offerings. Risk Assessment Programs represented only 1% of Premier's costs, but 18% of its delivery margin.
 * Led development efforts on MOSSRAP from beta to a released offering that averaged over 100 customer deliveries per month. On average, customers experienced an 80% drop in critical situation cases (critsits) after a MOSSRAP delivery, resulting in higher customer satisfaction as well as reduced support costs for Microsoft.
 * Designated as HiPo (high potential) and participated in the ExPo leadership development program (2009-2011).
