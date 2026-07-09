@@ -56,6 +56,7 @@ if ($Education) {
     $orderedFiles.Add('06 Education.md')
 }
 
+$orderedFiles.Add('07 Professional Development.md')
 $orderedFiles.Add('08 Volunteer Experience.md')
 $orderedFiles.Add('09 Independent Projects.md')
 
