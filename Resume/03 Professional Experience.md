@@ -1,8 +1,6 @@
 ## PROFESSIONAL EXPERIENCE
 
-[choose one title per resume]
-**Lead Consultant, US Digital Response** (May 2026 - present)
-**Program Manager, US Digital Response** (May 2026 - present)
+**Lead Consultant/Program Manager, US Digital Response** *(May 2026 - present)*
 
 Leading a cross-functional technical team on a 12-week pro-bono engagement with a mid-sized U.S. city, conducting AI use case discovery across city departments to identify high-impact, pilot-ready opportunities.
 
@@ -11,11 +9,12 @@ Leading a cross-functional technical team on a 12-week pro-bono engagement with 
 * Identified team stalls in translating strategy into execution and unblocked progress by personally drafting initial work product to catalyze team engagement.
 * Leading follow-on technical scoping to translate prioritized use cases into detailed implementation plans ahead of the engagement's July 31 conclusion.
 
-**Principal Technical Program Manager, Microsoft** -- Redmond, WA (October 2020 - July 2025)
+**Principal Technical Program Manager, Microsoft** -- Redmond, WA *(October 2020 - July 2025)*
 
 Embedded with executive leadership for Microsoft's Developer Division (DevDiv) as internal product builder and problem solver. Identified operational bottlenecks across a 2000-person engineering organization, diagnosed root causes, and shipped solutions -- from prototyping tools to facilitating cross-functional teams to hands-on technical work. Focused on enabling velocity with existing resources rather than requesting budget or headcount.
 
 * Inherited quarterly exec review that consumed 30+ hours chasing PMs for product updates. Redesigned document structure to pull directly from existing OKR tracking tool (Viva Goals), supplemented with marketing materials and AI-assisted content synthesis. Shipped restructured approach in single review cycle without additional budget or formal approval. Cut collation time 70% while maintaining positive exec feedback.
+* Inherited quarterly exec review that consumed 30+ hours chasing PMs for product updates. Redesigned document structure to pull directly from existing OKR tracking tool (Viva Goals), supplementing sparse PM notes with marketing materials and internal product documentation to produce executive-ready narrative. Shipped restructured approach in single review cycle without additional budget or formal approval. Cut collation time 70% while maintaining positive exec feedback.
 * Took over quarterly EVP review process, noticed we were optimizing for "the EVP expects this format" rather than efficiency. Experimented with small format changes, saw no pushback, shipped bigger redesign aligned to existing OKRs. Worst case was "EVP hates it and I look bad," not mission-critical failure. Validated through division-level reviews. Result: Cut collation time 70% while maintaining positive exec feedback.
 * Streamlined org-wide communications in collaboration with a cross-functional v-team, providing technical assistance and automation that reduced email volume and operational churn.
 * Drove development and automation of the DevDiv Careers page, creating a scalable recruitment channel that generated hundreds of monthly impressions.
@@ -25,8 +24,10 @@ Embedded with executive leadership for Microsoft's Developer Division (DevDiv) a
 * Led DevDivDataClub initiative providing hands-on data analysis training to 15 employees, resulting in increased skills as well as measurable business impact, including multiple bug fixes and strategic product shifts.
 * Led DevDivDataClub initiative providing hands-on data analysis training to 15 employees, using Power BI for visualization and presenting findings to product groups, resulting in increased skills as well as measurable business impact, including multiple bug fixes and strategic product shifts.
 * Drove compliance and security transformation for internal Chief of Staff tools in response to Microsoft's Secure Future Initiative, ensuring multiple systems met enterprise data governance and security standards.
+* Conducted technical interviews for both Program Manager and Software Engineer candidates. Co-developed and delivered an org-wide interview training workshop, focusing on PM-specific interviewing practices while gaining deep exposure to SWE technical interviewing standards through joint workshop development and delivery.
+* Participated in a team examining the impact of generative AI (following ChatGPT's release) on technical interviewing practices, contributing PM-specific perspective while developing insight into SWE-side interviewing challenges through cross-functional team discussions.
 
-**Principal Program Manager, Microsoft** -- Redmond, WA (August 2017 - October 2020)
+**Principal Program Manager, Microsoft** -- Redmond, WA *(August 2017 - October 2020)*
 
 Program manager on the Azure Developer Experience team, part of Developer Division. Collaborated with engineering, user research, and design teams to drive usage and growth of multiple cloud-focused developer tools and services at all stages of the product life cycle.
 
@@ -36,7 +37,7 @@ Program manager on the Azure Developer Experience team, part of Developer Divisi
 * Recognized org-wide as an expert in telemetry analysis using Azure Data Explorer. Mentored junior PMs and trained cross-functional teams on data-driven product decision-making.
 * Delivered technical presentations at multiple conferences, including Microsoft Build, Ignite, and MVP Summit.
 
-**Principal Software Development Lead** -- Redmond, WA (July 2013 - August 2017)
+**Principal Software Development Lead** -- Redmond, WA *(July 2013 - August 2017)*
 
 Rose through positions of increasing technical and leadership scope within the Advanced Services Delivery organization. Led cross-functional teams of software developers, UX designers, user researchers, and content writers to influence the development of a wide portfolio of proactive services offered to Microsoft's large enterprise customers.
 
@@ -46,8 +47,9 @@ Led cross-functional teams of software developers, UX designers, user researcher
 * Product owner for a team that focused on reducing support costs by increasing resolution rates for customer issues identified through the Risk Assessment Programs. Wrote user stories and acceptance criteria, prioritized backlog items, and collaborated with stakeholders to define feature requirements. The team's work doubled the resolution rate for "crisis issues."
 * Product owner for a team that partnered with the Operations Management Suite (OMS) product group, leveraging existing ASD content to build new solutions on OMS for greater scale and customer reach. Grew these solutions to nearly 10,000 active customers.
 * Served as HR manager for a team of seven software developers, handling performance management and career development.
+* Managed hiring for the organization, including Software Engineer, Program Manager, Designer, and User Researcher roles.
 
-**Senior Program Manager** -- Irving, TX (May 2008 - June 2013)
+**Senior Program Manager** -- Irving, TX *(May 2008 - June 2013)*
 
 Led the development of SharePoint-focused proactive services offered to Microsoft Premier (large enterprise) customers.
 

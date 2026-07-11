@@ -12,6 +12,8 @@
 * Equity-Focused Leadership
 * Impact Measurement
 * Product Roadmapping
+* Pilot Program Management
+* Product Strategy
 
 ## TECHNICAL SKILLS & PLATFORMS
 * Technical Program Management

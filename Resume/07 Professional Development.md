@@ -10,4 +10,4 @@
 
 **Machine Learning Foundations: A Case Study Approach** (University of Washington)
 
-**Building with the Claude API** (Anthropic) - in progress
+**Building with the Claude API** (Anthropic)
