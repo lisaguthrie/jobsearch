@@ -1,13 +1,13 @@
 ## PROFESSIONAL EXPERIENCE
 
-**Lead Consultant/Program Manager, US Digital Response** *(May 2026 - present)*
+**Lead Consultant/Program Manager, US Digital Response** *(May - July 2026)*
 
-Leading a cross-functional technical team on a 12-week pro-bono engagement with a mid-sized U.S. city, conducting AI use case discovery across city departments to identify high-impact, pilot-ready opportunities.
+Led a cross-functional technical team on a 12-week pro-bono engagement with a mid-sized U.S. city, conducting AI use case discovery across city departments to identify high-impact, pilot-ready opportunities.
 
 * Directed stakeholder interviews and use case discovery process, synthesizing findings into a structured report identifying 12 candidate AI use cases across city departments.
 * Designed and led a collaborative evaluation workshop with city stakeholders, narrowing 12 candidate use cases to 3 priority pilots based on feasibility and impact criteria.
 * Identified team stalls in translating strategy into execution and unblocked progress by personally drafting initial work product to catalyze team engagement.
-* Leading follow-on technical scoping to translate prioritized use cases into detailed implementation plans ahead of the engagement's July 31 conclusion.
+* Led follow-on technical scoping to translate prioritized use cases into detailed implementation plans presented to city staff for implementation.
 
 **Principal Technical Program Manager, Microsoft** -- Redmond, WA *(October 2020 - July 2025)*
 

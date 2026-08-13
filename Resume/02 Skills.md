@@ -1,5 +1,6 @@
 ## LEADERSHIP & MANAGEMENT SKILLS
 * Cross-Functional Collaboration
+* Cross-Functional Leadership
 * Strategic Planning
 * Data-Driven Decision Making
 * Stakeholder Management
