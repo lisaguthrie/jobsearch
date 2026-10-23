@@ -1,7 +1,7 @@
 ## VOLUNTEER EXPERIENCE
 
-**Lead Volunteer/Program Manager, US Digital Response** *(May 2026 - present)*
-Leading a cross-functional technical team on a 12-week pro-bono engagement with a mid-sized U.S. city, conducting AI use case discovery across city departments to identify high-impact, pilot-ready opportunities.
+**Lead Volunteer/Program Manager, US Digital Response** *(May - July 2026)*
+Led a cross-functional technical team on a 12-week pro-bono engagement with a mid-sized U.S. city, conducting AI use case discovery across city departments to identify high-impact, pilot-ready opportunities.
 
 **Lake Washington School District Board of Directors** *(2023 - present)*
 One of five elected members of the Board of Directors for the second largest school district in Washington state, representing 120,000+ registered voters, 30,000+ K-12 students, and 4,500+ district employees.

@@ -1,5 +1,13 @@
 ## PROFESSIONAL EXPERIENCE
 
+**AI Training & Evaluation Contributor [Contract], Mercor** *(2026)*
+
+Developed complex, real-world tasks for training and evaluating AI assistants, designing multi-step scenarios that exposed meaningful model failures through iterative testing and refinement. Produced reference demonstrations of expected task completion and contributed to evaluation criteria in collaboration with reviewers.
+
+* Designed and iteratively refined challenging prompts involving multi-step tool use, analyzing model responses to identify substantive failure modes.
+* Calibrated task complexity and instructions to ensure evaluations were challenging but fair, distinguishing model limitations from missing or ambiguous information.
+* Produced precise reference demonstrations and collaborated with reviewers on scoring criteria to support consistent evaluation.
+
 **Lead Consultant/Program Manager, US Digital Response** *(May - July 2026)*
 
 Led a cross-functional technical team on a 12-week pro-bono engagement with a mid-sized U.S. city, conducting AI use case discovery across city departments to identify high-impact, pilot-ready opportunities.
